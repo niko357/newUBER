@@ -1,5 +1,5 @@
 {
-  "name": "uber",
+  "name": "pulse",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -7,14 +7,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/niko357/newUBER.git"
+    "url": "git+https://github.com/niko357/pulse.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/niko357/newUBER/issues"
+    "url": "https://github.com/niko357/pulse/issues"
   },
-  "homepage": "https://github.com/niko357/newUBER#readme",
+  "homepage": "https://github.com/niko357/pulse#readme",
   "description": "",
   "devDependencies": {
     "browser-sync": "^2.26.14",
